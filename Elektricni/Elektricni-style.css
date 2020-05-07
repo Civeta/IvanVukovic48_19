@@ -1,0 +1,46 @@
+.naslov{text-align: center;
+        color: #16588f;
+}
+.tekst{text-align: center;
+	   font-size: 20px;
+}
+.uvod{text-align: center;
+	   padding: 10px;
+        background-color: white;
+        color: #16588f;
+            width: 1050px;
+            border-radius: 8px;
+            float: center;
+            margin-top: 20px;
+            margin-left: 400px;
+            margin-bottom: 50px;
+            font-size: 20px;
+}
+body {background-image: url("https://www.wsupercars.com/wallpapers/BMW/2019-BMW-i8-V1-1080.jpg");
+     background-attachment: fixed;
+     background-size: 100%;
+}
+.drugi{text-align: center;
+	   padding: 10px;
+        background-color:white;
+        color: #16588f;
+            width: 1050px;
+            border-radius: 8px;
+            float: center;
+            margin-top: 20px;
+            margin-left: 400px;
+            margin-bottom: 50px;
+            font-size: 20px;
+}
+.treci{text-align: center;
+	   padding: 10px;
+        background-color: white;
+        color: #16588f;
+            width: 1050px;
+            border-radius: 8px;
+            float: center;
+            margin-top: 20px;
+            margin-left: 400px;
+            margin-bottom: 50px;
+            font-size: 20px;
+}

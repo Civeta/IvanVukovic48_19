@@ -1,0 +1,101 @@
+.topnav{overflow: hidden;
+	   background-color:gray;
+	   border: solid 5px black;
+}
+.topnav a{float: center;
+            color: black;
+            text-align: center;
+            padding: 17px 150px;
+            font-size: 25px;
+}
+.tekstpocetne {color:#16588f;
+              font-size:22px;
+              padding-left: 5px;
+              padding-right: 5px
+              opacity: 2;
+              font-family: Times New Roman;
+}
+.bmw501 {
+        border-radius: 8px;
+}
+.bmw328 {
+        border-radius: 8px;
+}
+.bmw700 {
+         border-radius: 8px;
+}
+.bmwisseta {
+            border-radius: 8px; 
+}
+.bmwe3 {
+        border-radius: 8px;
+}
+.uvod {text-align: center;
+	   padding: 10px;
+        background-color: white;
+        color: #16588f;
+            width: 920px;
+            border-radius: 8px;
+            float: center;
+            margin-top: 20px;
+            margin-left: 500px;
+            margin-bottom: 50px;
+}
+body {background-image: url("https://images.alphacoders.com/920/thumb-1920-920026.jpg");
+     background-attachment: fixed;
+     background-size: 100%;
+
+}
+.bmw{font-size: 40px;
+     color:black;
+     font-family:"Times New Roman";
+     text-shadow: 3px 3px gray;
+     letter-spacing: 3px;
+}
+.naslov {color: white
+}
+.lista {color: #16588f;
+	font-size:22px;
+	opacity: 2;
+    font-family: "Times New Roman";
+}
+.tekst {color: #16588f;
+              font-size:22px;
+              padding-left: 5px;
+              padding-right: 5px
+              opacity: 2;
+              font-family: "Times New Roman";
+}
+.levo{float: left;
+	color:#81c4ff;
+	padding: 20px;
+	padding-left: 40px;
+	font-size: 20px;
+
+}
+.desno{ color: #e7222f;
+	float: right;
+	padding: 20px;
+	text-align: left;
+	margin-right: 90px;
+	font-size: 20px;
+
+}
+.m760{color: #e7222f}
+.m530{color: #e7222f}
+.m8{color: #e7222f}
+.f90{color: #e7222f}
+.gts{color: #e7222f}
+.m4{color: #81c4ff}
+.m3{color: #81c4ff}
+.cs{color: #81c4ff}
+.mle{color: #81c4ff}
+.e90si{color: #81c4ff}
+.x5{color: #81c4ff}
+.m5{color: #81c4ff}
+.x6{color: #81c4ff}
+.m6{color: #81c4ff}
+.zhp{color: #81c4ff}
+.Z8{color: #81c4ff}
+.m8{color: #e7222f}
+.ime{color: white}
